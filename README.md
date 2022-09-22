@@ -29,3 +29,4 @@ Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before making
 - Sebastian Delamata
 - Derek Derek
 - Will Evans
+- Allie 
